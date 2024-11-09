@@ -15,6 +15,9 @@ For questions or additional help, please contact himalaykolavada642@gmail.com.
 Check out our related videos on The Computational Physicist YouTube channel:
 
 ASE Installation: https://youtu.be/HhMvCK2xWys
+
 SIESTA Installation with Parallel Processing: https://youtu.be/Zq3Y4RjPqp8
+
 Fatband Generation in SIESTA: https://youtu.be/_WJ6VO6Ozyo
+
 Band Structure, DOS, and PDOS Plotting in Xmgrace: https://youtu.be/gghbO03kWCQ
